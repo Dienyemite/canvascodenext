@@ -1,0 +1,28 @@
+
+body {
+  margin: 10px;
+  text-align: center;
+}
+hr {
+  margin: 1em 5em;
+}
+
+#prompt {
+  color: blue;
+}
+#timer {
+  color: red;
+}
+
+canvas {
+  margin: 1em;
+  border: 2px solid black;
+  cursor: not-allowed;
+  width: 300px;
+  height: 200px;
+}
+#my-canvas {
+  cursor: pointer;
+  width: 600px;
+  height: 400px;
+}
